@@ -61,3 +61,14 @@ iframe{
     display: block;
     margin: 2% auto;
 }
+#miimagen1{
+    transition-duration: 1s;
+    transition-delay: inherit;
+    transform: rotateZ(-10deg);
+    
+}
+#mivideo1{
+    transition-duration: 2s;
+    transition-delay: 1s;
+    transform: rotateZ(-10deg);
+}
